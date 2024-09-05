@@ -1,0 +1,110 @@
+[33mcommit 15febf9b0d8abdc7ae05ce7927e5768629fde90e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 5d7f64b 2ee8d43
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Thu Sep 5 09:31:05 2024 +0200
+
+    merge: conflit resolved
+
+[33mcommit 5d7f64bb053d7263749b939d8b941e928be422e3[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Wed Sep 4 17:15:57 2024 +0200
+
+    feat: ul list ship
+
+[33mcommit 128c08fec4aa692e87c7a870facc77ff26592c51[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Wed Sep 4 17:27:13 2024 +0200
+
+    feat: ul list ship
+
+[33mcommit e89b6af84bb33d19ad20d106543cd5b17b5585c9[m
+Merge: e33257a e80b855
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Wed Sep 4 16:56:52 2024 +0200
+
+    fix: conflits
+
+[33mcommit e33257ab785c5f6c4472be35b226cfef9caf9f64[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Wed Sep 4 16:41:28 2024 +0200
+
+    fix: modifie le message
+
+[33mcommit 56189341d1da75da18e437f6b717a29f66dac9e1[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Wed Sep 4 16:36:13 2024 +0200
+
+    Sauvegarde des modifications locales avant fusion
+
+[33mcommit e80b855f32cac78af621537fdf7473607030c40a[m[33m ([m[1;32mtest-second-div[m[33m)[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Wed Sep 4 16:29:47 2024 +0200
+
+    fix: coucou git status
+
+[33mcommit 3319f32602157979ba35bbf9cc83180543af438d[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Wed Sep 4 15:29:36 2024 +0200
+
+    fixe: miss !
+
+[33mcommit 6a7d741c8ea895b98b3d84df64116b077b61536d[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Wed Sep 4 15:17:01 2024 +0200
+
+    feat: new div
+
+[33mcommit 08e99de4b24a6a3d7fa5d2324955c4cc81c64096[m[33m ([m[1;32mtest-second-diff[m[33m)[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Wed Sep 4 15:01:51 2024 +0200
+
+    fix: miss git add index.html
+
+[33mcommit 2ee8d4337c334fc7f19a7720107593ba37f9aa99[m[33m ([m[1;32mtest-div[m[33m)[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Wed Sep 4 14:16:04 2024 +0200
+
+    fix: miss !
+
+[33mcommit fc2e7f2b2632c7abf87b984b80965e4c6ac57b38[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Wed Sep 4 09:33:20 2024 +0200
+
+    feat(new paragraph)
+
+[33mcommit bb3d816a0d683c3fa7a860bba2479b411e05d602[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Wed Sep 4 09:11:31 2024 +0200
+
+    test(all): clean file
+
+[33mcommit e34905e582cdd9726816ea428e39369195642669[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Tue Sep 3 11:28:46 2024 +0200
+
+    Modification du fichier testfile
+
+[33mcommit f9edf7acf03d2bbca27b8c8d93743119c5d2d830[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Tue Sep 3 11:25:54 2024 +0200
+
+    Bonjour test
+
+[33mcommit d777c3debf426703fab1c2fe0e1c40b40ee2a903[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Tue Sep 3 11:22:25 2024 +0200
+
+    btest
+
+[33mcommit 6ae0411f02c45d745f714aabc1f263cafc06a5f0[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Tue Sep 3 11:06:45 2024 +0200
+
+    add the first title of the website
+    add new index
+
+[33mcommit e9183f26467609156771470fc090a45777378396[m
+Author: Aissatou <aissatou141@gmail.com>
+Date:   Tue Sep 3 09:36:22 2024 +0200
+
+    add the first title of the website
